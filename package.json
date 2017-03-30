@@ -12,8 +12,5 @@
   "files": [
     "lib"
   ],
-  "dependencies": { },
-  "publishConfig": {
-    "registry": "https://mseng.pkgs.visualstudio.com/_packaging/WebComponents/npm/registry"
-  }
+  "dependencies": { }
 }
