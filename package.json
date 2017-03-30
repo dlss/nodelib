@@ -1,5 +1,5 @@
 {
-  "name": "@dlss/nodelib",
+  "name": "dlss_nodelib",
   "version": "1.0.0",
   "description": "nodejs lib",
   "main": "requireModule.js",
