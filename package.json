@@ -1,8 +1,19 @@
 {
-  "name": "nodelib",
-  "description": "nodelib",
+  "name": "@dlss/nodelib",
+  "version": "1.0.0",
+  "description": "nodejs lib",
   "main": "requireModule.js",
-  "dependencies": {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlss/nodelib.git"
   },
-  "version": "1.0.0"
+  "author": "dlss",
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "dependencies": { },
+  "publishConfig": {
+    "registry": "https://mseng.pkgs.visualstudio.com/_packaging/WebComponents/npm/registry"
+  }
 }
