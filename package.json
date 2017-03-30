@@ -1,6 +1,6 @@
 {
   "name": "dlss_nodelib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nodejs lib",
   "main": "requireModule.js",
   "repository": {
@@ -9,6 +9,8 @@
   },
   "author": "dlss",
   "license": "MIT",
-  "files": [],
+  "files": [
+    "lib"
+  ],
   "dependencies": { }
 }
