@@ -1,0 +1,8 @@
+{
+  "name": "nodelib",
+  "description": "nodelib",
+  "main": "requireModule.js",
+  "dependencies": {
+  },
+  "version": "1.0.0"
+}
