@@ -1,6 +1,6 @@
 {
   "name": "dlss_nodelib",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "nodejs lib",
   "main": "requireModule.js",
   "repository": {
